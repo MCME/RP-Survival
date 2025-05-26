@@ -1,0 +1,146 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:condition",
+			"property": "minecraft:using_item",
+			"on_true": {
+				"type": "minecraft:special",
+				"model": {
+					"type": "minecraft:shield"
+				},
+				"base": "item/shield_blocking"
+			},
+			"on_false": {
+				"type": "minecraft:special",
+				"model": {
+					"type": "minecraft:shield"
+				},
+				"base": "item/shield"
+			}
+        },
+        "entries": [
+            {
+                "threshold": 1,
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:using_item",
+					"on_true": {
+						"type": "model",
+						"model": "item/boromir_shield/boromir_shield_blocking"
+					},
+					"on_false": {
+						"type": "model",
+						"model": "item/boromir_shield/boromir_shield"
+					}
+				}
+            },
+			{
+                "threshold": 2,
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:using_item",
+					"on_true": {
+						"type": "model",
+						"model": "item/gondor/shield/gondor_shield_blocking"
+					},
+					"on_false": {
+						"type": "model",
+						"model": "item/gondor/shield/gondor_shield"
+					}
+				}
+            },
+			{
+                "threshold": 3,
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:using_item",
+					"on_true": {
+						"type": "model",
+						"model": "item/rohan/shield/rohan_shield_blocking"
+					},
+					"on_false": {
+						"type": "model",
+						"model": "item/rohan/shield/rohan_shield"
+					}
+				}
+            },
+			{
+                "threshold": 4,
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:using_item",
+					"on_true": {
+						"type": "model",
+						"model": "item/orc/shield/orc_shield_blocking"
+					},
+					"on_false": {
+						"type": "model",
+						"model": "item/orc/shield/orc_shield"
+					}
+				}
+            },
+			{
+                "threshold": 5,
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:using_item",
+					"on_true": {
+						"type": "model",
+						"model": "item/ghost/shield/ghost_shield_blocking"
+					},
+					"on_false": {
+						"type": "model",
+						"model": "item/ghost/shield/ghost_shield"
+					}
+				}
+            },
+			{
+                "threshold": 6,
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:using_item",
+					"on_true": {
+						"type": "model",
+						"model": "item/generic_human/shield_1/shield_blocking"
+					},
+					"on_false": {
+						"type": "model",
+						"model": "item/generic_human/shield_1/shield"
+					}
+				}
+            },
+			{
+                "threshold": 7,
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:using_item",
+					"on_true": {
+						"type": "model",
+						"model": "item/generic_human/shield_2/shield_blocking"
+					},
+					"on_false": {
+						"type": "model",
+						"model": "item/generic_human/shield_2/shield"
+					}
+				}
+            },
+			{
+                "threshold": 8,
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:using_item",
+					"on_true": {
+						"type": "model",
+						"model": "item/dwarf/shield/dwarf_shield_blocking"
+					},
+					"on_false": {
+						"type": "model",
+						"model": "item/dwarf/shield/dwarf_shield"
+					}
+				}
+            }
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/iron_sword"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "item/ghost/ghost_sword"
+                }
+            },
+			{
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "item/gondor/gondor_sword"
+                }
+            },
+			{
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "item/rohan/rohan_sword"
+                }
+            },
+			{
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "item/elven/elven_sword"
+                }
+            },
+			{
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "item/ghost/ghost_sword2"
+                }
+            },
+			{
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "item/orc/orc_sword"
+                }
+            }
+        ]
+    }
+}

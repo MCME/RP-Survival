@@ -1,0 +1,71 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+			"type": "minecraft:condition",
+			"on_false": {
+				"type": "minecraft:special",
+				"base": "minecraft:item/trident_in_hand",
+				"model": {
+				"type": "minecraft:trident"
+				}
+			},
+			"on_true": {
+				"type": "minecraft:special",
+				"base": "minecraft:item/trident_throwing",
+				"model": {
+				"type": "minecraft:trident"
+				}
+			},
+			"property": "minecraft:using_item"
+			},
+        "entries": [
+            {
+                "threshold": 1,
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:using_item",
+					"on_true": {
+						"type": "model",
+						"model": "item/gondor/spear/gondor_spear_throw"
+					},
+					"on_false": {
+						"type": "model",
+						"model": "item/gondor/spear/gondor_spear"
+					}
+				}
+            },
+			{
+                "threshold": 2,
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:using_item",
+					"on_true": {
+						"type": "model",
+						"model": "item/dwarf/spear/dwarf_spear_throw"
+					},
+					"on_false": {
+						"type": "model",
+						"model": "item/dwarf/spear/dwarf_spear"
+					}
+				}
+            },
+			{
+                "threshold": 3,
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:using_item",
+					"on_true": {
+						"type": "model",
+						"model": "item/effie_spear/effie_weapon_thrown"
+					},
+					"on_false": {
+						"type": "model",
+						"model": "item/effie_spear/effie_weapon"
+					}
+				}
+            }
+        ]
+    }
+}

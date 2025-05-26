@@ -1,0 +1,40 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:block/stone"
+        },
+        "entries": [
+			{
+                "threshold": 34,
+                "model": {
+                    "type": "model",
+                    "model": "gui/mmo_ui"
+                }
+            },
+			{
+                "threshold": 35,
+                "model": {
+                    "type": "model",
+                    "model": "gui/race_ui"
+                }
+            },
+			{
+                "threshold": 36,
+                "model": {
+                    "type": "model",
+                    "model": "gui/jobs_ui"
+                }
+            },
+			{
+                "threshold": 37,
+                "model": {
+                    "type": "model",
+                    "model": "gui/stats_ui"
+                }
+            }
+        ]
+    }
+}
