@@ -1,0 +1,40 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/gold_nugget"
+        },
+        "entries": [
+			{
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "item/copper_ring"
+                }
+            },
+			{
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "item/iron_ring"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "item/mithril_ring"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "item/gold_ring"
+                }
+            }
+        ]
+    }
+}
