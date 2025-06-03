@@ -1,0 +1,16 @@
+{
+  "block.minecraft.netherite_block": "Block of Mithril",
+  "item.minecraft.netherite_axe": "Mithril Axe",
+  "item.minecraft.netherite_boots": "Mithril Boots",
+  "item.minecraft.netherite_chestplate": "Mithril Chestplate",
+  "item.minecraft.netherite_helmet": "Mithril Helmet",
+  "item.minecraft.netherite_hoe": "Mithril Hoe",
+  "item.minecraft.netherite_ingot": "Mithril Ingot",
+  "item.minecraft.netherite_leggings": "Mithril Leggings",
+  "item.minecraft.netherite_pickaxe": "Mithril Pickaxe",
+  "item.minecraft.netherite_scrap": "Raw Mithril",
+  "item.minecraft.netherite_shovel": "Mithril Shovel",
+  "item.minecraft.netherite_sword": "Mithril Sword",
+  "item.minecraft.netherite_upgrade_smithing_template": "Smithing Template",
+  "item.minecraft.netherite_upgrade_smithing_template.new": "Mithril Upgrade"
+}
