@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": [
+		{  "model": "minecraft:block/moria_map" }
+		],
+    "powered=true": [
+	{ "model" : "block/moria_map", "y":90 }
+	]
+  }
+}
