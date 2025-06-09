@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/dwarf/dwarf_leggings"
+    "model": "minecraft:item/dwarf/armor1/dwarf_leggings"
   }
 }
