@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:dwarf5"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:dwarf5"
+      }
+    ]
+  }
+}
