@@ -27,6 +27,13 @@
                     "type": "model",
                     "model": "item/dwarf/dwarf_axe_doubleside"
                 }
+            },
+			{
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/dwarven_halberd"
+                }
             }
         ]
     }
