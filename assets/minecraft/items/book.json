@@ -25,7 +25,7 @@
                 "threshold": 3,
                 "model": {
                     "type": "model",
-                    "model": "item/weapons/brown_book"
+                    "model": "item/weapons/books/brown_book"
                 }
             }
         ]
