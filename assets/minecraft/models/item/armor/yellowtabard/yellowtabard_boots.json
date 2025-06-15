@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "minecraft:item/armor/armor_boots_parent",
   "textures": {
-    "layer0": "minecraft:item/armor/yellowtabard/yellowtabard_boots"
+    "0": "minecraft:entity/equipment/humanoid/yellowtabard"
   }
 }
