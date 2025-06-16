@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/rohan/armor/yellowtabard/yellowtabard_leggings"
+    "model": "minecraft:item/armor/yellowtabard/yellowtabard_leggings"
   }
 }
