@@ -1,0 +1,110 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/iron_leggings"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/rohan/rohan_leggings"
+                }
+            },
+			{
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/gondor/gondor_leggings"
+                }
+            },
+			{
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/mithril/mithril_leggings"
+                }
+            },
+			{
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/elven/elf_leggings"
+                }
+            },
+			{
+                "threshold": 5,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor1/dwarf_leggings"
+                }
+            },
+			{
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor2/dwarf_leggings"
+                }
+            },
+			{
+                "threshold": 7,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor3/dwarf_leggings"
+                }
+            },
+			{
+                "threshold": 8,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor4/dwarf_leggings"
+                }
+            },
+			{
+                "threshold": 9,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor5/dwarf_leggings"
+                }
+            },
+			{
+                "threshold": 10,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/evil/evil_leggings"
+                }
+            },
+			{
+                "threshold": 11,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/gold_robe/gold_robe_leggings"
+                }
+            },
+			{
+                "threshold": 12,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/plate/plate_leggings"
+                }
+            },
+			{
+                "threshold": 13,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/yellowtabard/yellowtabard_leggings"
+                }
+            },
+			{
+                "threshold": 14,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/evil/evil_leggings"
+                }
+            }
+        ]
+    }
+}
