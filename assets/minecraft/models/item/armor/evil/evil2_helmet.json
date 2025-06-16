@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/armor/armor_helmet_parent",
   "textures": {
-    "0": "minecraft:entity/equipment/humanoid/mithril"
+    "0": "minecraft:entity/equipment/humanoid/evil2"
   }
 }

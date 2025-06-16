@@ -102,7 +102,14 @@
                 "threshold": 14,
                 "model": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item/armor/evil/evil_leggings"
+                    "model": "minecraft:item/armor/evil/evil2_leggings"
+                }
+            },
+			{
+                "threshold": 15,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/ghost/ghost_leggings"
                 }
             }
         ]

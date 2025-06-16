@@ -13,6 +13,104 @@
                     "type": "minecraft:model",
                     "model": "minecraft:item/rohan/rohan_helmet"
                 }
+            },
+			{
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/gondor/gondor_helmet"
+                }
+            },
+			{
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/mithril/mithril_helmet"
+                }
+            },
+			{
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/elven/elf_helmet"
+                }
+            },
+			{
+                "threshold": 5,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor1/dwarf_helmet"
+                }
+            },
+			{
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor2/dwarf_helmet"
+                }
+            },
+			{
+                "threshold": 7,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor3/dwarf_helmet"
+                }
+            },
+			{
+                "threshold": 8,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor4/dwarf_helmet"
+                }
+            },
+			{
+                "threshold": 9,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor5/dwarf_helmet"
+                }
+            },
+			{
+                "threshold": 10,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/evil/evil_helmet"
+                }
+            },
+			{
+                "threshold": 11,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/gold_robe/gold_robe_helmet"
+                }
+            },
+			{
+                "threshold": 12,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/plate/plate_helmet"
+                }
+            },
+			{
+                "threshold": 13,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/yellowtabard/yellowtabard_helmet"
+                }
+            },
+			{
+                "threshold": 14,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/evil/evil2_helmet"
+                }
+            },
+			{
+                "threshold": 15,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/ghost/ghost_helmet"
+                }
             }
         ]
     }

@@ -13,6 +13,104 @@
                     "type": "minecraft:model",
                     "model": "minecraft:item/rohan/rohan_boots"
                 }
+            },
+			{
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/gondor/gondor_boots"
+                }
+            },
+			{
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/mithril/mithril_boots"
+                }
+            },
+			{
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/elven/elf_boots"
+                }
+            },
+			{
+                "threshold": 5,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor1/dwarf_boots"
+                }
+            },
+			{
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor2/dwarf_boots"
+                }
+            },
+			{
+                "threshold": 7,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor3/dwarf_boots"
+                }
+            },
+			{
+                "threshold": 8,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor4/dwarf_boots"
+                }
+            },
+			{
+                "threshold": 9,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor5/dwarf_boots"
+                }
+            },
+			{
+                "threshold": 10,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/evil/evil_boots"
+                }
+            },
+			{
+                "threshold": 11,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/gold_robe/gold_robe_boots"
+                }
+            },
+			{
+                "threshold": 12,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/plate/plate_boots"
+                }
+            },
+			{
+                "threshold": 13,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/yellowtabard/yellowtabard_boots"
+                }
+            },
+			{
+                "threshold": 14,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/evil/evil2_boots"
+                }
+            },
+			{
+                "threshold": 15,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/ghost/ghost_boots"
+                }
             }
         ]
     }

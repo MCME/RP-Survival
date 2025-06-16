@@ -13,8 +13,105 @@
                     "type": "minecraft:model",
                     "model": "minecraft:item/rohan/rohan_chestplate"
                 }
+            },
+			{
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/gondor/gondor_chestplate"
+                }
+            },
+			{
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/mithril/mithril_chestplate"
+                }
+            },
+			{
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/elven/elf_chestplate"
+                }
+            },
+			{
+                "threshold": 5,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor1/dwarf_chestplate"
+                }
+            },
+			{
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor2/dwarf_chestplate"
+                }
+            },
+			{
+                "threshold": 7,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor3/dwarf_chestplate"
+                }
+            },
+			{
+                "threshold": 8,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor4/dwarf_chestplate"
+                }
+            },
+			{
+                "threshold": 9,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/dwarf/armor5/dwarf_chestplate"
+                }
+            },
+			{
+                "threshold": 10,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/evil/evil_chestplate"
+                }
+            },
+			{
+                "threshold": 11,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/gold_robe/gold_robe_chestplate"
+                }
+            },
+			{
+                "threshold": 12,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/plate/plate_chestplate"
+                }
+            },
+			{
+                "threshold": 13,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/yellowtabard/yellowtabard_chestplate"
+                }
+            },
+			{
+                "threshold": 14,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/evil/evil2_chestplate"
+                }
+            },
+			{
+                "threshold": 15,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/ghost/ghost_chestplate"
+                }
             }
         ]
     }
 }
-
