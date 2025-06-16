@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:thunderbolt"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:thunderbolt"
+      }
+    ]
+  }
+}

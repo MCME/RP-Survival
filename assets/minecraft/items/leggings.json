@@ -111,6 +111,251 @@
                     "type": "minecraft:model",
                     "model": "minecraft:item/armor/ghost/ghost_leggings"
                 }
+            },
+			{
+                "threshold": 16,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/raven/raven_leggings"
+                }
+            },
+			{
+                "threshold": 17,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/allorn/allorn_leggings"
+                }
+            },
+			{
+                "threshold": 18,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/purple_robe/purple_robe_leggings"
+                }
+            },
+			{
+                "threshold": 19,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/patchwork/patchwork_leggings"
+                }
+            },
+			{
+                "threshold": 20,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/leathercoat/leathercoat_leggings"
+                }
+            },
+			{
+                "threshold": 21,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/lilacrobe/lilacrobe_leggings"
+                }
+            },
+			{
+                "threshold": 22,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/crusade/crusade_leggings"
+                }
+            },
+			{
+                "threshold": 23,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/oathbroken/oathbroken_leggings"
+                }
+            },
+			{
+                "threshold": 24,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/wasp/wasp_leggings"
+                }
+            },
+			{
+                "threshold": 25,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/cyanrobe/cyanrobe_leggings"
+                }
+            },
+			{
+                "threshold": 26,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/bluerobe/bluerobe_leggings"
+                }
+            },
+			{
+                "threshold": 27,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/crimsonknight/crimsonknight_leggings"
+                }
+            },
+			{
+                "threshold": 28,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/jaderobe/jaderobe_leggings"
+                }
+            },
+			{
+                "threshold": 29,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/warlord/warlord_leggings"
+                }
+            },
+			{
+                "threshold": 30,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/warden/warden_leggings"
+                }
+            },
+			{
+                "threshold": 31,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/necromancer/necromancer_leggings"
+                }
+            },
+			{
+                "threshold": 32,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/thunderbolt/thunderbolt_leggings"
+                }
+            },
+			{
+                "threshold": 33,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/goldplate/goldplate_leggings"
+                }
+            },
+			{
+                "threshold": 34,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/welshplate/welshplate_leggings"
+                }
+            },
+			{
+                "threshold": 35,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/orangerobe/orangerobe_leggings"
+                }
+            },
+			{
+                "threshold": 36,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/greenrobe/greenrobe_leggings"
+                }
+            },
+			{
+                "threshold": 37,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/bloodcaster/bloodcaster_leggings"
+                }
+            },
+			{
+                "threshold": 38,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/snow/snow_leggings"
+                }
+            },
+			{
+                "threshold": 39,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/purplehabit/purplehabit_leggings"
+                }
+            },
+			{
+                "threshold": 40,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/tyrionplate/tyrionplate_leggings"
+                }
+            },
+			{
+                "threshold": 41,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/redplate/redplate_leggings"
+                }
+            },
+			{
+                "threshold": 42,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/darkplate/darkplate_leggings"
+                }
+            },
+			{
+                "threshold": 43,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/darklord/darklord_leggings"
+                }
+            },
+			{
+                "threshold": 44,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/lion/lion_leggings"
+                }
+            },
+			{
+                "threshold": 45,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/druidrobe/druidrobe_leggings"
+                }
+            },
+			{
+                "threshold": 46,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/mercenary/mercenary_leggings"
+                }
+            },
+			{
+                "threshold": 47,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/harad/harad_leggings"
+                }
+            },
+			{
+                "threshold": 48,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/greenplate/greenplate_leggings"
+                }
+            },
+			{
+                "threshold": 49,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/bloodknight/bloodknight_leggings"
+                }
+            },
+			{
+                "threshold": 50,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/redeemed/redeemed_leggings"
+                }
             }
         ]
     }

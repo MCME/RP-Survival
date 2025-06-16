@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:tyrionplate"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:tyrionplate"
+      }
+    ]
+  }
+}

@@ -111,6 +111,251 @@
                     "type": "minecraft:model",
                     "model": "minecraft:item/armor/ghost/ghost_boots"
                 }
+            },
+			{
+                "threshold": 16,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/raven/raven_boots"
+                }
+            },
+			{
+                "threshold": 17,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/allorn/allorn_boots"
+                }
+            },
+			{
+                "threshold": 18,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/purple_robe/purple_robe_boots"
+                }
+            },
+			{
+                "threshold": 19,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/patchwork/patchwork_boots"
+                }
+            },
+			{
+                "threshold": 20,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/leathercoat/leathercoat_boots"
+                }
+            },
+			{
+                "threshold": 21,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/lilacrobe/lilacrobe_boots"
+                }
+            },
+			{
+                "threshold": 22,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/crusade/crusade_boots"
+                }
+            },
+			{
+                "threshold": 23,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/oathbroken/oathbroken_boots"
+                }
+            },
+			{
+                "threshold": 24,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/wasp/wasp_boots"
+                }
+            },
+			{
+                "threshold": 25,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/cyanrobe/cyanrobe_boots"
+                }
+            },
+			{
+                "threshold": 26,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/bluerobe/bluerobe_boots"
+                }
+            },
+			{
+                "threshold": 27,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/crimsonknight/crimsonknight_boots"
+                }
+            },
+			{
+                "threshold": 28,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/jaderobe/jaderobe_boots"
+                }
+            },
+			{
+                "threshold": 29,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/warlord/warlord_boots"
+                }
+            },
+			{
+                "threshold": 30,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/warden/warden_boots"
+                }
+            },
+			{
+                "threshold": 31,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/necromancer/necromancer_boots"
+                }
+            },
+			{
+                "threshold": 32,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/thunderbolt/thunderbolt_boots"
+                }
+            },
+			{
+                "threshold": 33,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/goldplate/goldplate_boots"
+                }
+            },
+			{
+                "threshold": 34,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/welshplate/welshplate_boots"
+                }
+            },
+			{
+                "threshold": 35,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/orangerobe/orangerobe_boots"
+                }
+            },
+			{
+                "threshold": 36,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/greenrobe/greenrobe_boots"
+                }
+            },
+			{
+                "threshold": 37,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/bloodcaster/bloodcaster_boots"
+                }
+            },
+			{
+                "threshold": 38,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/snow/snow_boots"
+                }
+            },
+			{
+                "threshold": 39,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/purplehabit/purplehabit_boots"
+                }
+            },
+			{
+                "threshold": 40,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/tyrionplate/tyrionplate_boots"
+                }
+            },
+			{
+                "threshold": 41,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/redplate/redplate_boots"
+                }
+            },
+			{
+                "threshold": 42,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/darkplate/darkplate_boots"
+                }
+            },
+			{
+                "threshold": 43,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/darklord/darklord_boots"
+                }
+            },
+			{
+                "threshold": 44,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/lion/lion_boots"
+                }
+            },
+			{
+                "threshold": 45,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/druidrobe/druidrobe_boots"
+                }
+            },
+			{
+                "threshold": 46,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/mercenary/mercenary_boots"
+                }
+            },
+			{
+                "threshold": 47,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/harad/harad_boots"
+                }
+            },
+			{
+                "threshold": 48,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/greenplate/greenplate_boots"
+                }
+            },
+			{
+                "threshold": 49,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/bloodknight/bloodknight_boots"
+                }
+            },
+			{
+                "threshold": 50,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/redeemed/redeemed_boots"
+                }
             }
         ]
     }

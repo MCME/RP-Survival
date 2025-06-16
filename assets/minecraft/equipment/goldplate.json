@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:goldplate"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:goldplate"
+      }
+    ]
+  }
+}

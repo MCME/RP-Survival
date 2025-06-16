@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:bloodcaster"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:bloodcaster"
+      }
+    ]
+  }
+}

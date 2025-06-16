@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:oathbroken"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:oathbroken"
+      }
+    ]
+  }
+}
