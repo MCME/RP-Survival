@@ -1,0 +1,173 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/diamond"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/absorb"
+                }
+            },
+			{
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/badluck"
+                }
+            },
+			{
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/cloud"
+                }
+            },
+			{
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/eye"
+                }
+            },
+			{
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/eye2"
+                }
+            },
+			{
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/fire"
+                }
+            },
+			{
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/fish"
+                }
+            },
+			{
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/heart"
+                }
+            },
+			{
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/heart2"
+                }
+            },
+			{
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/hearts"
+                }
+            },
+			{
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/hunger"
+                }
+            },
+			{
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/luck"
+                }
+            },
+			{
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/nausea"
+                }
+            },
+			{
+                "threshold": 14,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/poison"
+                }
+            },
+			{
+                "threshold": 15,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/rabbit"
+                }
+            },
+			{
+                "threshold": 16,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/ring"
+                }
+            },
+			{
+                "threshold": 17,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/sauron"
+                }
+            },
+			{
+                "threshold": 18,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/shield"
+                }
+            },
+			{
+                "threshold": 19,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/slow"
+                }
+            },
+			{
+                "threshold": 20,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/spoon"
+                }
+            },
+			{
+                "threshold": 21,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/swords"
+                }
+            },
+			{
+                "threshold": 22,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/weak"
+                }
+            },
+			{
+                "threshold": 23,
+                "model": {
+                    "type": "model",
+                    "model": "item/amulet/wind"
+                }
+            }
+        ]
+    }
+}
