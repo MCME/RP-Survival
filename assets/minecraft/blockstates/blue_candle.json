@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "candles=1,lit=false": {"model": "shadermodels:block/gandalf_sword"},
+    "candles=2,lit=false": {"model": "shadermodels:block/gandalf_sword", "y":90},
+    "candles=3,lit=false": {"model": "shadermodels:block/gandalf_sword", "y":180},
+    "candles=4,lit=false": {"model": "shadermodels:block/gandalf_sword", "y":270}
+  }
+}

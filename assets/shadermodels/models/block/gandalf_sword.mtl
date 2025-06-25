@@ -1,0 +1,8 @@
+# Made in Blockbench 4.12.5
+newmtl m_0c1a441c-251d-60f0-8527-c26d9fbb22bb
+map_Kd shadermodels:block/gandalf_sword
+newmtl m_c8fa112e-ddd7-16a7-8b2d-e3e73b82b57b
+map_Kd shadermodels:block/Gandalf
+newmtl m_41468299-2cee-6d62-fdc7-8dbf6de79095
+map_Kd shadermodels:block/gandalf_staff
+newmtl none
