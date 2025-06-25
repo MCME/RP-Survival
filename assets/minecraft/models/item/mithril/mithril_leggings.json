@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "minecraft:item/armor/armor_leggings_parent",
   "textures": {
-    "layer0": "minecraft:item/mithril_leggings"
+    "0": "minecraft:entity/equipment/humanoid_leggings/mithril"
   }
 }

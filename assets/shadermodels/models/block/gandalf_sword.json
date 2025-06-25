@@ -1,0 +1,8 @@
+{
+	"parent": "special-model-loader:builtin/obj",
+	"particle": "shadermodels:block/gandalf_sword",
+	"flip_v": true,
+	"mtl_override": "shadermodels:models/block/gandalf_sword.mtl",
+	"model": "shadermodels:models/block/gandalf_sword.obj",
+	"gui_light": "front"
+}

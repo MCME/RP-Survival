@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:warlord"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:warlord"
+      }
+    ]
+  }
+}

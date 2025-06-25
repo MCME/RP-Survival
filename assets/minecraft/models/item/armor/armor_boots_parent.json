@@ -1,0 +1,87 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 32],
+	"textures": {
+		"0": "entity/equipment/humanoid/dwarf",
+		"particle": "entity/equipment/humanoid/dwarf"
+	},
+	"elements": [
+		{
+			"name": "left_shoe",
+			"from": [2.05, -0.75, 6.25],
+			"to": [7.55, 12.75, 11.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.7, 0, 9]},
+			"faces": {
+				"north": {"uv": [2, 10, 1, 16], "texture": "#0"},
+				"east": {"uv": [3, 10, 2, 16], "texture": "#0"},
+				"south": {"uv": [4, 10, 3, 16], "texture": "#0"},
+				"west": {"uv": [1, 10, 0, 16], "texture": "#0"},
+				"up": {"uv": [1, 10, 2, 8], "texture": "#0"},
+				"down": {"uv": [2, 8, 3, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "right_shoe",
+			"from": [8.45, -0.75, 6.25],
+			"to": [13.95, 12.75, 11.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.3, 0, 9]},
+			"faces": {
+				"north": {"uv": [1, 10, 2, 16], "texture": "#0"},
+				"east": {"uv": [0, 10, 1, 16], "texture": "#0"},
+				"south": {"uv": [3, 10, 4, 16], "texture": "#0"},
+				"west": {"uv": [2, 10, 3, 16], "texture": "#0"},
+				"up": {"uv": [2, 10, 1, 8], "texture": "#0"},
+				"down": {"uv": [3, 8, 2, 10], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -0.5, 0],
+			"scale": [0.41, 0.41, 0.41]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -0.5, 0],
+			"scale": [0.41, 0.41, 0.41]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 3, 0],
+			"scale": [0.41, 0.41, 0.41]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 3, 0],
+			"scale": [0.41, 0.41, 0.41]
+		},
+		"ground": {
+			"translation": [0, 6, 0],
+			"scale": [0.69, 0.69, 0.69]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.73, 0.73, 0.73]
+		},
+		"fixed": {
+			"translation": [0, 3.5, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "left_shoe",
+			"origin": [-1.9, 12, 0],
+			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
+			"children": [0]
+		},
+		{
+			"name": "right_shoe",
+			"origin": [1.9, 12, 0],
+			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
+			"children": [1]
+		}
+	]
+}

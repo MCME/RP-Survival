@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:welshplate"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:welshplate"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:elf2"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:elf2"
+      }
+    ]
+  }
+}

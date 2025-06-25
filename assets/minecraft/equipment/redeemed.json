@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:redeemed"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:redeemed"
+      }
+    ]
+  }
+}

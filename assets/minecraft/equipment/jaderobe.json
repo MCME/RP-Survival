@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:jaderobe"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:jaderobe"
+      }
+    ]
+  }
+}

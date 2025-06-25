@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:bluehood"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:bluehood"
+      }
+    ]
+  }
+}

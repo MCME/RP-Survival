@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/armor/armor_boots_parent",
+  "textures": {
+    "0": "minecraft:entity/equipment/humanoid/jaderobe"
+  }
+}

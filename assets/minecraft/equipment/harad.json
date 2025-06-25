@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:harad"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:harad"
+      }
+    ]
+  }
+}
