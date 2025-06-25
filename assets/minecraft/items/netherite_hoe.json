@@ -20,6 +20,20 @@
                     "type": "model",
                     "model": "item/weapons/staff"
                 }
+            },
+			{
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/necromancerstaff"
+                }
+            },
+			{
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "item/weapons/magicstaff"
+                }
             }
         ]
     }
