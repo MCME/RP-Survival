@@ -1,0 +1,16 @@
+{
+    "variants": {
+		"face=floor,facing=north,powered=false":  [
+		{ "model": "block/paper_quill" }
+		],
+        "face=floor,facing=east,powered=false":  [
+		{ "model": "block/paper_quill", "y":90 }
+		],
+		"face=floor,facing=south,powered=false":  [
+		{ "model": "block/paper_quill", "y":180 }
+		],
+		"face=floor,facing=west,powered=false":  [
+		{ "model": "block/paper_quill", "y":270 }
+		]
+    }
+}
