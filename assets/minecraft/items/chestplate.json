@@ -356,6 +356,13 @@
                     "type": "minecraft:model",
                     "model": "minecraft:item/armor/redeemed/redeemed_chestplate"
                 }
+            },
+			{
+                "threshold": 51,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/smaug/smaug_chestplate"
+                }
             }
         ]
     }

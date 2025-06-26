@@ -370,6 +370,13 @@
                     "type": "minecraft:model",
                     "model": "minecraft:item/armor/bluehood_helmet"
                 }
+            },
+			{
+                "threshold": 51,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/armor/smaug/smaug_helmet"
+                }
             }
         ]
     }
