@@ -372,7 +372,7 @@
                 }
             },
 			{
-                "threshold": 51,
+                "threshold": 53,
                 "model": {
                     "type": "minecraft:model",
                     "model": "minecraft:item/armor/smaug/smaug_helmet"
