@@ -4,8 +4,8 @@
             "type": "ttf",
             "file": "minecraft:ringbearer.ttf",
             "shift": [0, 0],
-			"size": 11.0,
-			"oversample": 11.0
+			"size": 9.25,
+			"oversample": 9.25
 
         }
 	]
