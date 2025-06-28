@@ -4,8 +4,8 @@
             "type": "ttf",
             "file": "minecraft:middleearth.ttf",
             "shift": [0, 0],
-			"size": 11,
-			"oversample": 11
+			"size": 10,
+			"oversample": 10
 
         }
 	]
