@@ -1,0 +1,12 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:ringbearer.ttf",
+            "shift": [0, 0],
+			"size": 10,
+			"oversample": 10
+
+        }
+	]
+}
