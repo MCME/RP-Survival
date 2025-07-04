@@ -1,0 +1,141 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"3": "item/lightsaber"
+	},
+	"elements": [
+		{
+			"from": [7.4, -0.53281, 7.28437],
+			"to": [8.6, 2.26719, 8.48438],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.8, 6.31445, 7.88437]},
+			"faces": {
+				"north": {"uv": [3.25, 2.375, 3.625, 3.25], "texture": "#3"},
+				"east": {"uv": [3.25, 2.375, 3.625, 3.25], "texture": "#3"},
+				"south": {"uv": [3.25, 2.375, 3.625, 3.25], "texture": "#3"},
+				"west": {"uv": [3.25, 2.375, 3.625, 3.25], "texture": "#3"},
+				"up": {"uv": [4.5, 2.75, 4, 2.25], "texture": "#3"},
+				"down": {"uv": [5.5, 5.5, 5.25, 5.875], "texture": "#3"}
+			}
+		},
+		{
+			"from": [7.6, -0.53281, 7.48437],
+			"to": [8.4, 6.26719, 8.28438],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6.31445, 8.08437]},
+			"faces": {
+				"north": {"uv": [4, 0.5, 4.25, 2], "texture": "#3"},
+				"east": {"uv": [4, 0.5, 4.25, 2], "texture": "#3"},
+				"south": {"uv": [2.5, 4, 2.75, 5.5], "texture": "#3"},
+				"west": {"uv": [2.5, 4, 2.75, 5.5], "texture": "#3"},
+				"up": {"uv": [4, 5.875, 3.75, 5.5], "texture": "#3"},
+				"down": {"uv": [5.5, 5.5, 5.25, 5.875], "texture": "#3"}
+			}
+		},
+		{
+			"from": [7.3, 6, 7.175],
+			"to": [8.7, 7.2, 8.575],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.3, 6, 7.175]},
+			"faces": {
+				"north": {"uv": [4.5, 3.75, 5, 4.125], "texture": "#3"},
+				"east": {"uv": [4.5, 3.75, 5, 4.125], "texture": "#3"},
+				"south": {"uv": [4.5, 3.75, 5, 4.125], "texture": "#3"},
+				"west": {"uv": [4.5, 3.75, 5, 4.125], "texture": "#3"},
+				"up": {"uv": [4, 2.25, 4.5, 2.75], "texture": "#3"},
+				"down": {"uv": [4, 2.25, 4.5, 2.75], "texture": "#3"}
+			}
+		},
+		{
+			"from": [7.3, -1.5, 7.175],
+			"to": [8.7, -0.3, 8.575],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.3, -1.5, 7.175]},
+			"faces": {
+				"north": {"uv": [4.75, 2, 5.25, 2.375], "texture": "#3"},
+				"east": {"uv": [4.75, 2, 5.25, 2.375], "texture": "#3"},
+				"south": {"uv": [4.75, 2, 5.25, 2.375], "texture": "#3"},
+				"west": {"uv": [4.75, 2, 5.25, 2.375], "texture": "#3"},
+				"up": {"uv": [4, 2.25, 4.5, 2.75], "texture": "#3"},
+				"down": {"uv": [4, 2.25, 4.5, 2.75], "texture": "#3"}
+			}
+		},
+		{
+			"name": "Blade",
+			"from": [7.5, 6.25, 7.4],
+			"to": [8.5, 27.65, 8.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 6.25, 7.4]},
+			"faces": {
+				"north": {"uv": [13.375, 0, 14.375, 16], "texture": "#3", "tintindex": 0},
+				"east": {"uv": [13.375, 0, 14.375, 16], "texture": "#3", "tintindex": 0},
+				"south": {"uv": [13.375, 0, 14.375, 16], "texture": "#3", "tintindex": 0},
+				"west": {"uv": [13.375, 0, 14.375, 16], "texture": "#3", "tintindex": 0},
+				"up": {"uv": [13.375, 0, 14.375, 1], "texture": "#3", "tintindex": 0},
+				"down": {"uv": [13.375, 0, 14.375, 1], "texture": "#3", "tintindex": 0}
+			}
+		},
+		{
+			"name": "Blade",
+			"from": [7.75, 6.25, 7.65],
+			"to": [8.25, 27.25, 8.15],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 6.25, 7.65]},
+			"faces": {
+				"north": {"uv": [11.125, 0, 12.125, 16], "texture": "#3"},
+				"east": {"uv": [11.125, 0, 12.125, 16], "texture": "#3"},
+				"south": {"uv": [11.125, 0, 12.125, 16], "texture": "#3"},
+				"west": {"uv": [11.125, 0, 12.125, 16], "texture": "#3"},
+				"up": {"uv": [11.125, 0, 12.125, 1], "texture": "#3"},
+				"down": {"uv": [11.125, 0, 12.125, 1], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3.25, 1]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3.25, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-26, 0, 0],
+			"translation": [0.25, 3, 0.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-26, 0, 0],
+			"translation": [0.25, 3, 0.25]
+		},
+		"ground": {
+			"rotation": [-180, 0, 0],
+			"translation": [0, 19, 0],
+			"scale": [0.95, 0.95, 0.95]
+		},
+		"gui": {
+			"rotation": [90, 45, -90],
+			"translation": [-3.25, -3.25, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"fixed": {
+			"rotation": [-90, 45, 90],
+			"translation": [5.25, -5, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "anduril",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
+			"children": [
+				{
+					"name": "item_righthand",
+					"origin": [14.025, 13.475, 4.925],
+					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
+					"children": [0, 1, 2, 3]
+				}
+			]
+		},
+		4,
+		5
+	]
+}
