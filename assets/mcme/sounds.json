@@ -1,0 +1,10 @@
+{
+  "survival_opening": {
+    "sounds": [
+      {
+        "name": "mcme:survival/summersurvival_opening",
+        "stream": true
+      }
+    ]
+  }
+}
