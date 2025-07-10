@@ -167,6 +167,13 @@
                     "type": "model",
                     "model": "item/amulet/wind"
                 }
+            },
+			{
+                "threshold": 24,
+                "model": {
+                    "type": "model",
+                    "model": "item/artifacts/barts_trident"
+                }
             }
         ]
     }
