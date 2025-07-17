@@ -3,14 +3,14 @@
 	"parent": "block/trapdoor_top",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/burnt_oak_log_model",
-		"14": "block/fire_slow",
+		"1": "block/survival_burnt_oak_log_model",
+		"14": "block/survival_fire_slow",
 		"top": "block/cauldron_top",
 		"side": "block/cauldron_side",
 		"inside": "block/cauldron_inner",
-		"particle": "block/burn_mark",
-		"3_0": "block/burn_mark",
-		"3_3": "block/burnt_oak_log_model_2"
+		"particle": "block/survival_burn_mark",
+		"3_0": "block/survival_burn_mark",
+		"3_3": "block/survival_burnt_oak_log_model"
 	},
 	"elements": [
 		{

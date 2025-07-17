@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/cobblestone",
-		"1": "block/double_slab_nether_brick_seamless_2",
+		"0": "block/survival_cobblestone",
+		"1": "block/survival_double_slab_nether_brick_seamless",
 		"2": "block/smoker_chimney",
-		"3": "block/burnt_oak_log_model_2",
-		"14": "block/fire_slow",
-		"particle": "block/burn_mark",
-		"1_0": "block/burn_mark",
-		"1_1": "block/burnt_oak_log_model"
+		"3": "block/survival_burnt_oak_log_model",
+		"14": "block/survival_fire_slow",
+		"particle": "block/survival_burn_mark",
+		"1_0": "block/survival_burn_mark",
+		"1_1": "block/survival_burnt_oak_log_model"
 	},
 	"elements": [
 		{

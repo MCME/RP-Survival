@@ -1,13 +1,14 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
 		"1": "block/cauldron_side",
-		"2": "block/double_slab_cut_copper",
-		"3": "block/stripped_oak_log_composite",
+		"2": "block/survival_double_slab_cut_copper",
+		"3": "block/survival_stripped_oak_log_composite",
 		"particle": "block/cauldron_side",
-		"end": "block/bookshelf_top",
-		"side": "block/bookshelf",
+		"end": "block/survival_bookshelf_top",
+		"side": "block/survival_bookshelf",
 		"top": "block/cauldron_top",
 		"bottom": "block/cauldron_bottom",
 		"inside": "block/cauldron_inner"
@@ -492,31 +493,23 @@
 			"name": "bookshelf",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [0]
 		},
 		{
 			"name": "cauldron_empty",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [1, 2, 3, 4, 5, 6, 7]
 		},
 		{
 			"name": "hammer",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "hammer",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [8, 9]
 				}
 			]
@@ -525,54 +518,40 @@
 			"name": "tools",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "grips",
 					"origin": [12, 10, 0],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [10, 11, 12, 13, 14, 15, 16]
 				},
 				{
 					"name": "group",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [
 						{
 							"name": "saw",
 							"origin": [0, 0, 0],
 							"color": 0,
-							"nbt": "{}",
-							"armAnimationEnabled": false,
 							"children": [17, 18, 19, 20, 21]
 						},
 						{
 							"name": "hammer",
 							"origin": [0, 0, 0],
 							"color": 0,
-							"nbt": "{}",
-							"armAnimationEnabled": false,
 							"children": []
 						},
 						{
 							"name": "knife2",
 							"origin": [0, 0, 0],
 							"color": 0,
-							"nbt": "{}",
-							"armAnimationEnabled": false,
 							"children": [22, 23, 24, 25, 26, 27]
 						},
 						{
 							"name": "knife1",
 							"origin": [3, 4, 0],
 							"color": 0,
-							"nbt": "{}",
-							"armAnimationEnabled": false,
 							"children": [28, 29, 30, 31]
 						},
 						32,

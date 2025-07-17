@@ -2,13 +2,13 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/trapdoor_top",
 	"textures": {
-		"1": "block/burnt_oak_log_model",
+		"1": "block/survival_burnt_oak_log_model",
 		"top": "block/cauldron_top",
 		"side": "block/cauldron_side",
 		"inside": "block/cauldron_inner",
-		"particle": "block/burn_mark",
-		"3_0": "block/burn_mark",
-		"3_3": "block/burnt_oak_log_model_2"
+		"particle": "block/survival_burn_mark",
+		"3_0": "block/survival_burn_mark",
+		"3_3": "block/survival_burnt_oak_log_model"
 	},
 	"elements": [
 		{
