@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/whitebeam_log",
+		"0": "block/whitebeam_wand",
 		"1": "block/dropper_nwd_side",
-		"particle": "block/whitebeam_log"
+		"particle": "block/whitebeam_wand"
 	},
 	"elements": [
 		{

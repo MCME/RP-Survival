@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/spruce_log",
+		"0": "block/spruce_wand",
 		"1": "block/dropper_nwd_side",
-		"particle": "block/spruce_log"
+		"particle": "block/spruce_wand"
 	},
 	"elements": [
 		{

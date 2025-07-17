@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/oak_log",
+		"0": "block/oak_wand",
 		"1": "block/dropper_nwd_side",
-		"particle": "block/oak_log"
+		"particle": "block/oak_wand"
 	},
 	"elements": [
 		{

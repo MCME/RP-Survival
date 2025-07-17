@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/pine_log",
+		"0": "block/pine_wand",
 		"1": "block/dropper_nwd_side",
-		"particle": "block/pine_log"
+		"particle": "block/pine_wand"
 	},
 	"elements": [
 		{

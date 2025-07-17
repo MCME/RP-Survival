@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/birch_log",
+		"0": "block/birch_wand",
 		"1": "block/dropper_nwd_side",
-		"particle": "block/birch_log"
+		"particle": "block/birch_wand"
 	},
 	"elements": [
 		{

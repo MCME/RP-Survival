@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/larch_log",
+		"0": "block/larch_wand",
 		"1": "block/dropper_nwd_side",
-		"particle": "block/larch_log"
+		"particle": "block/larch_wand"
 	},
 	"elements": [
 		{

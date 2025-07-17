@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/poplar_log",
+		"0": "block/poplar_wand",
 		"1": "block/dropper_nwd_side",
-		"particle": "block/poplar_log"
+		"particle": "block/poplar_wand"
 	},
 	"elements": [
 		{
