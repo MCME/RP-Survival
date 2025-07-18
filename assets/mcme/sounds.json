@@ -14,5 +14,13 @@
         "stream": true
       }
     ]
+  },
+  "battle_music": {
+    "sounds": [
+      {
+        "name": "mcme:survival/battle_music",
+        "stream": true
+      }
+    ]
   }
 }
