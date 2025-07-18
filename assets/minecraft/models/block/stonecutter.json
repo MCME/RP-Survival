@@ -1,11 +1,12 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/cobblestone",
+		"0": "block/survival_cobblestone",
 		"1": "block/stonecutter_top",
-		"2": "block/double_slab_nether_brick_seamless",
+		"2": "block/survival_double_slab_nether_brick_seamless",
 		"3": "block/stonecutter_saw",
-		"particle": "block/cobblestone"
+		"particle": "block/survival_cobblestone"
 	},
 	"elements": [
 		{
@@ -160,8 +161,6 @@
 			"name": "octagon",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": []
 		},
 		9

@@ -1,11 +1,11 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/furnace_front",
+		"0": "block/survival_furnace_front",
 		"1": "block/cauldron_inner",
-		"2": "block/furnace_side",
-		"1_1": "block/burnt_oak_log_model",
-		"particle": "block/furnace_front_on"
+		"2": "block/survival_furnace_side",
+		"1_1": "block/survival_burnt_oak_log_model"
 	},
 	"elements": [
 		{
@@ -215,8 +215,6 @@
 			"name": "burnt_firepit",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [8, 9, 10]
 		},
 		11,
