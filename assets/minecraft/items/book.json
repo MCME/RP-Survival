@@ -27,6 +27,20 @@
                     "type": "model",
                     "model": "item/weapons/books/brown_book"
                 }
+            },
+			{
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "gui/skills_button"
+                }
+            },
+			{
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "gui/attributes_button"
+                }
             }
         ]
     }
