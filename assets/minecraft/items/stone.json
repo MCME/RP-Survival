@@ -34,6 +34,13 @@
                     "type": "model",
                     "model": "gui/stats_ui"
                 }
+            },
+			{
+                "threshold": 38,
+                "model": {
+                    "type": "model",
+                    "model": "gui/class_ui"
+                }
             }
         ]
     }
